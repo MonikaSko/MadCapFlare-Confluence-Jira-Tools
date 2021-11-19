@@ -32,7 +32,6 @@ TOC
 * "Whats new" and "Ask users" sections and Release notes are cool and interesting  
 * visible and well structured Help  
   
-
 **CONS**  
 * can be difficult and overwhelming at first  
 * poor quality of some images  
