@@ -29,7 +29,7 @@ TOC
 * Confluence Quickstart Menu is easily accesible and useful source of information for beginners  
 * language options - good localization (including Polish)
 * nice and well created search  
-*  * "Whats new" and "Ask users" sections are cool and interesting  
+* "Whats new" and "Ask users" sections and Release notes are cool and interesting  
 * visible and well structured Help  
   
 
